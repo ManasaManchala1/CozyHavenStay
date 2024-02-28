@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cozy_Haven.props" />
+</Project>
